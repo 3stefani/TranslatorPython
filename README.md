@@ -49,11 +49,11 @@ Suppose you want to translate "Hello, world!" from English to Spanish. The progr
 	Enter the target language: es
 
 **The result will be something like:**
-	Ingrese la palabra o frase a traducir: casa
-	Ingrese el idioma de origen:es
-	Ingrese el idioma de destino:en
-	Texto Original (es): casa
-	texto_a_traducido (en): home
+	- Ingrese la palabra o frase a traducir: casa
+	- Ingrese el idioma de origen:es
+	- Ingrese el idioma de destino:en
+	- Texto Original (es): casa
+	- texto_a_traducido (en): home
 
 ### Important Notes
 
