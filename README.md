@@ -1,4 +1,4 @@
-##Language Translator with Google Translator
+## Language Translator with Google Translator
 
 This is a simple language translator created in Python using the googletrans library. The program allows you to translate text from one language to another specified by the user.
 
